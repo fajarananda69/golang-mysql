@@ -22,7 +22,7 @@ Skema connection string untuk driver mysql yang kita gunakan cukup unik, ``root:
 user:password@tcp(host:port)/dbname
 user@tcp(host:port)/dbname
 ```
-Di bawah ini adalah penjelasan mengenai connection string yang digunakan pada fungsi `connect()'.
+Di bawah ini adalah penjelasan mengenai connection string yang digunakan pada fungsi `connect()`.
 ```
 root@tcp(127.0.0.1:3306)/db_belajar_golang
 // user     => root
