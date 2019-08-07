@@ -24,10 +24,10 @@ user@tcp(host:port)/dbname
 ```
 Di bawah ini adalah penjelasan mengenai connection string yang digunakan pada fungsi `connect()`.
 ```
-root@tcp(127.0.0.1:3306)/db_belajar_golang
+root@tcp(127.0.0.1:3306)/DBName
 // user     => root
 // password =>
 // host     => 127.0.0.1 atau localhost
-// port     => 3306
+// port     => 3306 default
 // dbname   => DBName
 ```
